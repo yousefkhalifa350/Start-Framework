@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+
+@utility container{
+    margin-inline:auto;
+    padding-inline:2rem;
+   
+}
+
+.nav_link.active {
+background-color: #1ABC9C;
+    width: 15px;
+    height: 15px;
+    border: 10px solid #1ABC9C;
+    border-radius: 10px;
+ 
+ 
+}
+
+
+
+
+/* 
+img{
+    border-radius: 2px;
+} */
+
